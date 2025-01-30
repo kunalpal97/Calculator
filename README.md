@@ -2,7 +2,7 @@
 
 A sleek, responsive calculator web application with a modern glassmorphism design and advanced functionality.
 
-## UI of Calculator 
+## UI For Calculator 
 
 ![image](https://github.com/user-attachments/assets/82f8451b-0721-4b8d-8ea0-d44490cf29c9)
 
@@ -128,4 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 Your Name - [@kunalpal97](https://twitter.com/Kunalpal7981)
-Project Link: [https://github.com/yourusername/modern-calculator](https://github.com/yourusername/modern-calculator)
+Project Live Link:(https://quick-calciii.netlify.app/)
